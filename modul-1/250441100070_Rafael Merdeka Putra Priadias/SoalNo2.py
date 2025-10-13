@@ -1,0 +1,10 @@
+panjang = int(input("Masukkan panjangnya:"))
+lebar = int(input("Masukkan lebarnya:"))
+tinggi = int(input("Masukkan tingginya:"))
+print("Panjang balok:", panjang, "cm")
+print("Lebar balok:", lebar, "cm")
+print("Tinggi balok:", tinggi, "cm")
+volume = panjang * lebar * tinggi
+luas_permukaan = 2 * ((panjang * lebar) + (panjang * lebar) + (lebar * tinggi))
+print("Hasil Volume Balok:", volume,"cm³")
+print("Hasil Luas Permukaan Balok:", luas_permukaan,"cm²")
