@@ -8,6 +8,9 @@ if usia < 0 or usia > 100:
     print("Usiamu Tidak logis!!")
 else:
     # Melanjutkan Kondisi
+    print("Usia logis!!!")
+    # Melanjutkan Kondisi
+    status_pelajar = input("Pelajar SMA dengan kartu pelajar? (ya/tidak): ")
     hari = input("Masukkan hari: ")
     diskon = 0
 
