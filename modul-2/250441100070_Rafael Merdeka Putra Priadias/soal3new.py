@@ -26,3 +26,4 @@ else:
         biaya_sisa = 20000 # JIka sisa 7 jam atau lebih, biaya maksimal harian
     total_biaya = biaya_harian + biaya_sisa
     print(f"Total Biaya Parkir Anda sebesar: Rp{total_biaya}") 
+    

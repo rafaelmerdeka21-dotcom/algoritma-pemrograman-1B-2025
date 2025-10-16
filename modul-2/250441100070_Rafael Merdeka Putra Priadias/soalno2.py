@@ -32,3 +32,4 @@ else:
     # Biaya yang harus dibayarkan
     print(f"Mendapatkan diskon sebesar: {int(diskon * 100)}%")
     print(f"Harga yang harus dibayar: Rp {int(harga_akhir)}")
+
