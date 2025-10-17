@@ -1,0 +1,1 @@
+penjelasan kode : apabila seseorang tersebut menyewa jenis motor, misalnya motor matic yang seharga Rp. 50.000 asuransinya Rp. 15.000 apabila lebih dari 3 hari penyewaaan. Ada 2 diskon yang diberikan oleh pihak sewa, diantaranya Mendapatkan pertama diskon 10% kalau lebih dari Rp. 150.000 harga asuransinya. Bisa mendapatkan diskon 
